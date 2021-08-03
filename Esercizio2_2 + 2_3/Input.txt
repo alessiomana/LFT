@@ -1,0 +1,12 @@
+___a__ = 5;
+/* ciao */
+while( x >= 3000 ){ 
+    _variabile_di_prova1 = 7; 
+    if (variabile == 5)
+        y = NULL;
+    
+    /* */ /* */ ciao
+
+    // lol /*
+    /* ciao */
+}

@@ -1,0 +1,8 @@
+while( x >= 1 ){ 
+    variabile = 7; 
+    if (variabile == 5)
+        y = NULL;
+    print(* d t);
+    cond when (> x y) then (= x 0) else (= y 0);
+    while (conds<=printread) do conds=conds+1;
+}

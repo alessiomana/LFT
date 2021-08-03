@@ -1,0 +1,8 @@
+read(x);
+cond
+    when (|| (< x 10) (&& (> x 20) (! > x 30))) do print(+(x 100))
+    else print(x);
+read(y);
+cond 
+    when (&& (! >= y 5) (> y 3)) do print(y)
+    else print(0)
